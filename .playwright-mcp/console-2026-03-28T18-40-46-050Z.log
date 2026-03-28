@@ -1,0 +1,140 @@
+[      58ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[     127ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[     191ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[     247ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     374ms] Error: ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:22:20)
+    at Object.getCompilationErrors (file://C:\Users\adibh\OneDrive\Claude AI Training\uigen\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file://C:\Users\adibh\OneDrive\Claude AI Training\uigen\node_modules\next\dist\server\lib\dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file://C:\Users\adibh\OneDrive\Claude AI Training\uigen\node_modules\next\dist\server\dev\next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file://C:\Users\adibh\OneDrive\Claude AI Training\uigen\node_modules\next\dist\server\dev\next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Users\adibh\OneDrive\Claude AI Training\uigen\node_modules\next\dist\server\base-server.js:2619:26)
+[     374ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     509ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[     549ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[   34936ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[   77185ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[   85781ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[   86174ms] [ERROR] ./src/lib/prompts/generation.tsx:22:20
+Parsing ecmascript source code failed
+  20 | ### Hard rules — never do these:
+  21 | * White cards on gray-50 backgrounds with blue-500 buttons — the canonical Tailwind tutorial look
+> 22 | * `hover:scale-105` — this is completely banned, on buttons, cards, or anything else
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 23 | * `rounded-lg shadow-lg bg-white` as a default card recipe
+     | ^^^
+  24 | * Blue/gray as the primary palette unless explicitly requested
+  25 | * Centering a small card in the middle of a huge empty `min-h-screen` wrapper — this wastes the canvas and looks unfinished; use the full space or give the background real purpose
+  26 | * External image URLs (Unsplash, etc.) — use `https://i.pravatar.cc/150?img=N` for avatars, or build initials-based avatars with a colored `div`
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
